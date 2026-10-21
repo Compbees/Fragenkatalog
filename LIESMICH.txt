@@ -1,0 +1,7 @@
+Jägerprüfung M-V als App installieren
+1. Den ganzen Ordner (oder dieses ZIP entpackt) auf einen HTTPS-Host hochladen,
+   z. B. Netlify Drop (app.netlify.com/drop) oder GitHub Pages.
+2. Die Adresse in Chrome auf dem Android-Handy öffnen, einmal kurz laden lassen.
+3. Menü (⋮) -> "App installieren" bzw. "Zum Startbildschirm hinzufügen".
+Danach startet die App im Vollbild und funktioniert offline.
+Hinweis: Lernfortschritt wird lokal im Browser gespeichert (pro Gerät/Adresse).
